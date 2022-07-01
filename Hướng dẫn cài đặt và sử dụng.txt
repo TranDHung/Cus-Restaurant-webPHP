@@ -1,0 +1,13 @@
+Hướng dẫn cài đặt và sử dụng:
+Bước 1: Download XAMPP.
+Bước 2: Chạy file cài đặt đã tài về.
+Bước 3: Tích chọn các phần mềm muốn cài đặt.
+Bước 4: Chọn thư mục cài đặt.
+Bước 5: Nhất finish khi kết thúc cài đặt.
+Bước 6: Mở XAMPP Control Panel.
+Bước 7: Nhấp chọn Start hai ứng dụng Apache, MySQL để khởi động Webserver.
+Bước 8: Mở thư mục xampp/htdocs và tạo một thư mục ví dụ là: QuanLyNhaHang
+Bước 9: Cho source code vào thư mục vừa được tạo.
+Bước 10: Truy cập https://localhost/phpmyadmin
+Bước 11: Import file quanlynhahang.sql vào phpmyadmin
+Bước 12: Truy cập https://localhost/QuanLyNhaHang.
